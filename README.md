@@ -10,5 +10,5 @@ It is a website which uses **paper-js, Css, html** and a little bit of **Jquery*
 + Next you need to **extract** the zip file in your pc.
 + Now simply click on **Circles.html**.
 + A **black** screen will appear on your web browser window.
-+ Now try pressing **word** keys on the keyboard.
++ Now try pressing **word** keys on the keyboard.  
 *Fun naah?*
