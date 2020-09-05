@@ -9,6 +9,6 @@ It is a website which uses **paper-js, Css, html** and a little bit of **Jquery*
 + First you need to <a href="https://github.com/Jashanveer/Padatap/archive/master.zip"> download </a> the project.
 + Next you need to **extract** the zip file in your pc.
 + Now simply click on **Circles.html**.
-+ A black screen will appear on your web browser.
-+ Now try pressing word keys on the keyboard.
-+ Fun naah?
++ A **black** screen will appear on your web browser window.
++ Now try pressing **word** keys on the keyboard.
+*Fun naah?*
